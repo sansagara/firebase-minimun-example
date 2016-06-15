@@ -1,3 +1,3 @@
 # Android App Example with Firebase.
 
-A guide to this app is available at www.leonelatencio.com
+A guide to this demo app is available at http://leonelatencio.com/android-aplicacion-sencilla-back-end-firebase/
